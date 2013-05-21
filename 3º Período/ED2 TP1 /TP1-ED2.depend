@@ -1,0 +1,399 @@
+# depslib dependency file v1.0
+1334256345 source:c:\documents and settings\aluno\desktop\mateus\tp1-ed2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1334155886 c:\documents and settings\aluno\desktop\mateus\tp1-ed2\tads\arvoreavl.h
+
+1334249074 source:c:\documents and settings\aluno\desktop\mateus\tp1-ed2\tads\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreAVL.h"
+
+1334346902 source:c:\documents and settings\aluno\desktop\tp1-ed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1336021359 source:c:\users\mateus\desktop\mateus\tp1-ed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TADs/tabela_hash.h"
+	"TADs/funcoes.h"
+	"TADs/arvoreB.h"
+	"TADs/arvoreAVL.h"
+
+1336021867 source:c:\users\mateus\desktop\mateus\tp1-ed2\tads\arvore_binaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore_binaria.h"
+
+1335982582 c:\users\mateus\desktop\mateus\tp1-ed2\tads\arvore_binaria.h
+	"lista_invertida.h"
+
+1335981738 c:\users\mateus\desktop\mateus\tp1-ed2\tads\tabela_hash.h
+	"arvore_binaria.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1336021699 source:c:\users\mateus\desktop\mateus\tp1-ed2\tads\tabela_hash.c
+	"tabela_hash.h"
+
+1336020313 source:c:\users\mateus\desktop\mateus\tp1-ed2\tads\arvoreb.c
+	"arvoreB.h"
+
+1336020249 c:\users\mateus\desktop\mateus\tp1-ed2\tads\arvoreb.h
+	<stdlib.h>
+	<stdio.h>
+	"lista_invertida.h"
+
+1335314717 c:\users\mateus\desktop\mateus\tp1-ed2\tads\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1335314825 source:c:\users\mateus\desktop\mateus\tp1-ed2\tads\lista.c
+	"lista.h"
+
+1336008969 source:c:\users\mateus\desktop\mateus\tp1-ed2\tads\arvoreavl.c
+	"arvoreAVL.h"
+
+1336012619 c:\users\mateus\desktop\mateus\tp1-ed2\tads\arvoreavl.h
+	<stdio.h>
+	<stdlib.h>
+	"lista_invertida.h"
+
+1336008954 source:c:\users\mateus\desktop\mateus\tp1-ed2\tads\lista_invertida.c
+	"lista_invertida.h"
+
+1336008850 c:\users\mateus\desktop\mateus\tp1-ed2\tads\lista_invertida.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1336011772 c:\users\mateus\desktop\mateus\tp1-ed2\tads\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tabela_hash.h"
+	"arvoreAVL.h"
+	"arvoreB.h"
+
+1336021884 source:c:\users\mateus\desktop\mateus\tp1-ed2\tads\funcoes.c
+	"funcoes.h"
+
+1335845304 source:c:\documents and settings\administrator\desktop\tp1-ed2\tads\arvoreb.c
+	"arvoreB.h"
+
+1335835254 c:\documents and settings\administrator\desktop\tp1-ed2\tads\arvoreb.h
+	<stdlib.h>
+	<stdio.h>
+	"lista_invertida.h"
+
+1335971437 c:\documents and settings\administrator\desktop\tp1-ed2\tads\lista_invertida.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1335971507 source:c:\documents and settings\administrator\desktop\tp1-ed2\tads\arvore_binaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore_binaria.h"
+
+1335971437 c:\documents and settings\administrator\desktop\tp1-ed2\tads\arvore_binaria.h
+	"lista_invertida.h"
+
+1335971770 source:c:\documents and settings\administrator\desktop\tp1-ed2\tads\funcoes.c
+	"funcoes.h"
+
+1335929186 c:\documents and settings\administrator\desktop\tp1-ed2\tads\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tabela_hash.h"
+
+1335971438 c:\documents and settings\administrator\desktop\tp1-ed2\tads\tabela_hash.h
+	"arvore_binaria.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1335971437 source:c:\documents and settings\administrator\desktop\tp1-ed2\tads\lista_invertida.c
+	"lista_invertida.h"
+
+1335971437 source:c:\documents and settings\administrator\desktop\tp1-ed2\tads\tabela_hash.c
+	"tabela_hash.h"
+
+1335971438 source:c:\documents and settings\administrator\desktop\tp1-ed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TADs/tabela_hash.h"
+	"TADs/funcoes.h"
+
+1335845306 source:c:\documents and settings\administrator\desktop\tp1-ed2\tads\arvoreavl.c
+	"arvoreAVL.h"
+
+1335835300 c:\documents and settings\administrator\desktop\tp1-ed2\tads\arvoreavl.h
+	<stdio.h>
+	<stdlib.h>
+	"lista_invertida.h"
+
+1335845304 source:c:\documents and settings\aluno\desktop\trabalho wender\tp1-ed2\tads\arvoreb.c
+	"arvoreB.h"
+
+1335835254 c:\documents and settings\aluno\desktop\trabalho wender\tp1-ed2\tads\arvoreb.h
+	<stdlib.h>
+	<stdio.h>
+	"lista_invertida.h"
+
+1335982581 c:\documents and settings\aluno\desktop\trabalho wender\tp1-ed2\tads\lista_invertida.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1335971508 source:c:\documents and settings\aluno\desktop\trabalho wender\tp1-ed2\tads\arvore_binaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore_binaria.h"
+
+1335982581 c:\documents and settings\aluno\desktop\trabalho wender\tp1-ed2\tads\arvore_binaria.h
+	"lista_invertida.h"
+
+1335982986 source:c:\documents and settings\aluno\desktop\trabalho wender\tp1-ed2\tads\funcoes.c
+	"funcoes.h"
+
+1335982986 c:\documents and settings\aluno\desktop\trabalho wender\tp1-ed2\tads\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tabela_hash.h"
+
+1335981737 c:\documents and settings\aluno\desktop\trabalho wender\tp1-ed2\tads\tabela_hash.h
+	"arvore_binaria.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1335971438 source:c:\documents and settings\aluno\desktop\trabalho wender\tp1-ed2\tads\lista_invertida.c
+	"lista_invertida.h"
+
+1335971438 source:c:\documents and settings\aluno\desktop\trabalho wender\tp1-ed2\tads\tabela_hash.c
+	"tabela_hash.h"
+
+1335982581 source:c:\documents and settings\aluno\desktop\trabalho wender\tp1-ed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TADs/tabela_hash.h"
+	"TADs/funcoes.h"
+
+1335845306 source:c:\documents and settings\aluno\desktop\trabalho wender\tp1-ed2\tads\arvoreavl.c
+	"arvoreAVL.h"
+
+1335835300 c:\documents and settings\aluno\desktop\trabalho wender\tp1-ed2\tads\arvoreavl.h
+	<stdio.h>
+	<stdlib.h>
+	"lista_invertida.h"
+
+1336048638 source:c:\documents and settings\administrator\desktop\tp1-ed2 - com tempo e memoria\tads\arvoreb.c
+	"arvoreB.h"
+
+1336048127 c:\documents and settings\administrator\desktop\tp1-ed2 - com tempo e memoria\tads\arvoreb.h
+	<stdlib.h>
+	<stdio.h>
+	"lista_invertida.h"
+
+1336008852 c:\documents and settings\administrator\desktop\tp1-ed2 - com tempo e memoria\tads\lista_invertida.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1336021868 source:c:\documents and settings\administrator\desktop\tp1-ed2 - com tempo e memoria\tads\arvore_binaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore_binaria.h"
+
+1335982582 c:\documents and settings\administrator\desktop\tp1-ed2 - com tempo e memoria\tads\arvore_binaria.h
+	"lista_invertida.h"
+
+1336021886 source:c:\documents and settings\administrator\desktop\tp1-ed2 - com tempo e memoria\tads\funcoes.c
+	"funcoes.h"
+
+1336047883 c:\documents and settings\administrator\desktop\tp1-ed2 - com tempo e memoria\tads\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tabela_hash.h"
+	"arvoreAVL.h"
+	"arvoreB.h"
+
+1335981738 c:\documents and settings\administrator\desktop\tp1-ed2 - com tempo e memoria\tads\tabela_hash.h
+	"arvore_binaria.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1336012620 c:\documents and settings\administrator\desktop\tp1-ed2 - com tempo e memoria\tads\arvoreavl.h
+	<stdio.h>
+	<stdlib.h>
+	"lista_invertida.h"
+
+1336008956 source:c:\documents and settings\administrator\desktop\tp1-ed2 - com tempo e memoria\tads\lista_invertida.c
+	"lista_invertida.h"
+
+1336021700 source:c:\documents and settings\administrator\desktop\tp1-ed2 - com tempo e memoria\tads\tabela_hash.c
+	"tabela_hash.h"
+
+1336047883 source:c:\documents and settings\administrator\desktop\tp1-ed2 - com tempo e memoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TADs/tabela_hash.h"
+	"TADs/funcoes.h"
+	"TADs/arvoreB.h"
+	"TADs/arvoreAVL.h"
+
+1336008970 source:c:\documents and settings\administrator\desktop\tp1-ed2 - com tempo e memoria\tads\arvoreavl.c
+	"arvoreAVL.h"
+
+1336069133 source:c:\documents and settings\aluno\desktop\tp1-ed2 - com tempo e memoria\tads\arvoreb.c
+	"arvoreB.h"
+
+1336062752 c:\documents and settings\aluno\desktop\tp1-ed2 - com tempo e memoria\tads\arvoreb.h
+	<stdlib.h>
+	<stdio.h>
+	"lista_invertida.h"
+
+1336063059 c:\documents and settings\aluno\desktop\tp1-ed2 - com tempo e memoria\tads\lista_invertida.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1336021868 source:c:\documents and settings\aluno\desktop\tp1-ed2 - com tempo e memoria\tads\arvore_binaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore_binaria.h"
+
+1335982582 c:\documents and settings\aluno\desktop\tp1-ed2 - com tempo e memoria\tads\arvore_binaria.h
+	"lista_invertida.h"
+
+1336069066 source:c:\documents and settings\aluno\desktop\tp1-ed2 - com tempo e memoria\tads\funcoes.c
+	"funcoes.h"
+
+1336069264 c:\documents and settings\aluno\desktop\tp1-ed2 - com tempo e memoria\tads\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tabela_hash.h"
+	"arvoreAVL.h"
+	"arvoreB.h"
+
+1335981738 c:\documents and settings\aluno\desktop\tp1-ed2 - com tempo e memoria\tads\tabela_hash.h
+	"arvore_binaria.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1336067563 c:\documents and settings\aluno\desktop\tp1-ed2 - com tempo e memoria\tads\arvoreavl.h
+	<stdio.h>
+	<stdlib.h>
+	"lista_invertida.h"
+
+1336008956 source:c:\documents and settings\aluno\desktop\tp1-ed2 - com tempo e memoria\tads\lista_invertida.c
+	"lista_invertida.h"
+
+1336021700 source:c:\documents and settings\aluno\desktop\tp1-ed2 - com tempo e memoria\tads\tabela_hash.c
+	"tabela_hash.h"
+
+1336067835 source:c:\documents and settings\aluno\desktop\tp1-ed2 - com tempo e memoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TADs/tabela_hash.h"
+	"TADs/funcoes.h"
+	"TADs/arvoreB.h"
+	"TADs/arvoreAVL.h"
+
+1336068177 source:c:\documents and settings\aluno\desktop\tp1-ed2 - com tempo e memoria\tads\arvoreavl.c
+	"arvoreAVL.h"
+
+1336069133 source:c:\users\mateus\desktop\mateus\tp1-ed2 - final\tads\arvoreb.c
+	"arvoreB.h"
+
+1336069609 c:\users\mateus\desktop\mateus\tp1-ed2 - final\tads\arvoreb.h
+	<stdlib.h>
+	<stdio.h>
+	"lista_invertida.h"
+
+1336069439 c:\users\mateus\desktop\mateus\tp1-ed2 - final\tads\lista_invertida.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1336021868 source:c:\users\mateus\desktop\mateus\tp1-ed2 - final\tads\arvore_binaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore_binaria.h"
+
+1336069498 c:\users\mateus\desktop\mateus\tp1-ed2 - final\tads\arvore_binaria.h
+	"lista_invertida.h"
+
+1336069066 source:c:\users\mateus\desktop\mateus\tp1-ed2 - final\tads\funcoes.c
+	"funcoes.h"
+
+1336069384 c:\users\mateus\desktop\mateus\tp1-ed2 - final\tads\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tabela_hash.h"
+	"arvoreAVL.h"
+	"arvoreB.h"
+
+1335981738 c:\users\mateus\desktop\mateus\tp1-ed2 - final\tads\tabela_hash.h
+	"arvore_binaria.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1336069704 c:\users\mateus\desktop\mateus\tp1-ed2 - final\tads\arvoreavl.h
+	<stdio.h>
+	<stdlib.h>
+	"lista_invertida.h"
+
+1336008956 source:c:\users\mateus\desktop\mateus\tp1-ed2 - final\tads\lista_invertida.c
+	"lista_invertida.h"
+
+1336021700 source:c:\users\mateus\desktop\mateus\tp1-ed2 - final\tads\tabela_hash.c
+	"tabela_hash.h"
+
+1336067835 source:c:\users\mateus\desktop\mateus\tp1-ed2 - final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"TADs/tabela_hash.h"
+	"TADs/funcoes.h"
+	"TADs/arvoreB.h"
+	"TADs/arvoreAVL.h"
+
+1336068177 source:c:\users\mateus\desktop\mateus\tp1-ed2 - final\tads\arvoreavl.c
+	"arvoreAVL.h"
+

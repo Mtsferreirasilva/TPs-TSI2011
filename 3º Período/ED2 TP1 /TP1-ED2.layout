@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="TADs\arvoreAVL.c" open="0" top="0" tabpos="13">
+		<Cursor position="5401" topLine="159" />
+	</File>
+	<File name="TADs\arvoreAVL.h" open="0" top="0" tabpos="12">
+		<Cursor position="530" topLine="6" />
+	</File>
+	<File name="TADs\arvoreB.c" open="0" top="0" tabpos="5">
+		<Cursor position="3867" topLine="151" />
+	</File>
+	<File name="TADs\arvoreB.h" open="0" top="0" tabpos="4">
+		<Cursor position="1282" topLine="15" />
+	</File>
+	<File name="TADs\arvore_binaria.c" open="0" top="0" tabpos="8">
+		<Cursor position="2783" topLine="69" />
+	</File>
+	<File name="TADs\arvore_binaria.h" open="0" top="0" tabpos="6">
+		<Cursor position="206" topLine="5" />
+	</File>
+	<File name="TADs\funcoes.c" open="0" top="0" tabpos="2">
+		<Cursor position="16463" topLine="22" />
+	</File>
+	<File name="TADs\funcoes.h" open="0" top="0" tabpos="3">
+		<Cursor position="1629" topLine="10" />
+	</File>
+	<File name="TADs\lista_invertida.c" open="0" top="0" tabpos="6">
+		<Cursor position="2711" topLine="150" />
+	</File>
+	<File name="TADs\lista_invertida.h" open="0" top="0" tabpos="7">
+		<Cursor position="238" topLine="14" />
+	</File>
+	<File name="TADs\tabela_hash.c" open="0" top="0" tabpos="4">
+		<Cursor position="229" topLine="0" />
+	</File>
+	<File name="TADs\tabela_hash.h" open="0" top="0" tabpos="4">
+		<Cursor position="302" topLine="2" />
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="0">
+		<Cursor position="941" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

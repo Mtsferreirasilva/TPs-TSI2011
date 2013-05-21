@@ -1,0 +1,13 @@
+Arquivo.txt
+Arquivo3.txt
+Arquivo4.txt
+doc1.txt
+doc10.txt
+doc2.txt
+doc3.txt
+doc4.txt
+doc5.txt
+doc6.txt
+doc7.txt
+doc8.txt
+docX.txt

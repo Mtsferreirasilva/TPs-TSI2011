@@ -1,0 +1,1023 @@
+Lista Invertida Arvore B
+
+
+carlos 	2 2 	1 4 	1 6 	1 7 	
+desejos 	1 1 	1 3 	
+lado 	1 1 	
+realizacoes 	1 1 	
+ama 	1 6 	1 7 	
+as 	1 2 	1 3 	1 4 	1 7 	1 9 	2 10 	2 12 	
+adversário 	1 4 	
+alcancar 	1 1 	
+abrir 	1 1 	1 6 	1 9 	
+acento 	3 1 	
+a 	3 1 	7 2 	1 3 	1 4 	5 5 	8 6 	5 7 	1 8 	29 9 	8 10 	7 11 	7 12 	
+abençoei 	1 11 	
+abriu 	1 9 	
+acabou 	2 6 	
+acontecido 	1 9 	
+acredito 	1 9 	
+adiamento 	1 12 	
+adoraçao 	1 2 	
+agradecendo 	1 3 	
+agua 	1 2 	
+afeiçoou 	1 11 	
+agir 	1 8 	
+agora 	8 6 	5 9 	1 11 	
+agressiva 	1 9 	
+agressivo 	1 9 	
+ah 	1 10 	
+ainda 	1 9 	
+airosa 	1 11 	
+ajudaram 	1 3 	
+algazarra 	1 9 	
+alimentar 	1 8 	
+alegre 	1 11 	
+alegria 	1 11 	
+alguma 	1 3 	1 10 	
+alheias 	1 10 	
+aliás 	1 10 	
+alma 	1 12 	
+alto 	2 9 	
+além 	1 5 	
+amoroso 	1 2 	
+apaixonadas 	1 3 	
+amanha 	1 12 	
+amar 	13 2 	2 8 	
+amigos 	2 3 	
+amado 	1 4 	
+amanda 	1 3 	
+amanhã 	21 12 	
+amante 	1 7 	
+amarelos 	1 3 	
+ambições 	1 10 	
+ambos 	1 9 	
+amo 	6 7 	
+amor 	5 2 	1 3 	10 7 	2 9 	3 10 	
+ano 	2 1 	1 3 	1 8 	
+antunes 	1 3 	
+andavam 	1 9 	
+andou 	1 1 	
+andrade 	2 2 	1 4 	1 6 	1 7 	
+animal 	1 9 	
+anos 	1 9 	2 11 	
+ansia 	1 2 	
+antecipado 	1 12 	
+antes 	1 5 	6 9 	1 12 	
+ao 	1 1 	1 5 	5 9 	
+apagou 	1 6 	
+apesar 	1 3 	
+aproximaram 	1 3 	
+ardente 	1 9 	
+apanhar 	1 12 	
+aparecem 	1 3 	
+aparelho 	3 10 	
+apenas 	1 8 	2 9 	
+aportar 	1 8 	
+aprender 	1 8 	
+ar 	1 10 	
+arbustos 	2 9 	
+arenoso 	1 9 	
+arte 	1 3 	
+barulho 	1 9 	
+biblioteca 	1 6 	
+bom 	1 1 	1 9 	
+cabelo 	1 5 	
+ate 	1 1 	2 2 	
+atingirás 	1 5 	
+ave 	1 2 	
+bagagem 	1 3 	
+aspero 	1 2 	
+assim 	1 1 	1 12 	
+astros 	1 4 	
+atencao 	1 3 	
+atentos 	1 10 	
+atroz 	1 11 	
+até 	3 9 	1 10 	1 11 	
+atônito 	1 9 	
+aventurados 	1 10 	
+aviso 	1 10 	
+balbúrdia 	1 9 	
+bandeira 	1 11 	
+barriga 	1 9 	
+beber 	1 6 	
+beijo 	1 2 	1 9 	
+bastante 	1 7 	
+batendo 	1 9 	
+bater 	1 9 	
+beijado 	1 9 	
+beijar 	1 9 	
+beijei 	1 9 	
+beijou 	1 9 	
+bem 	4 9 	1 10 	1 11 	1 12 	
+boa 	1 9 	1 10 	
+bobo 	21 10 	
+bicho 	1 6 	
+bilhetes 	1 12 	
+boba 	2 10 	
+bobas 	1 10 	
+bobos 	7 10 	
+boca 	6 9 	
+brincar 	1 9 	
+brutus 	1 10 	
+bonde 	1 6 	
+brasa 	1 9 	
+brisa 	1 2 	2 9 	
+brotava 	1 9 	
+burro 	1 10 	
+burros 	1 10 	
+cada 	1 3 	1 7 	
+capaz 	1 3 	2 10 	
+cabelos 	1 9 	
+cachoeira 	1 7 	
+cansasse 	1 6 	
+cansaço 	2 12 	
+cantar 	1 8 	
+cara 	1 1 	1 9 	
+carinho 	1 6 	
+concretizar 	1 1 	
+céu 	1 10 	
+chao 	1 2 	
+com 	1 1 	1 3 	3 4 	1 6 	1 7 	9 9 	8 10 	
+causa 	1 5 	
+cena 	1 3 	
+caro 	1 11 	
+carregando 	1 3 	
+caríssimo 	1 10 	
+casas 	1 10 	
+cavalo 	1 6 	
+cedilha 	1 1 	
+chafariz 	2 9 	
+chagall 	1 10 	
+chamado 	1 10 	
+chamar 	1 3 	
+cheio 	1 11 	
+cidadezinha 	1 1 	
+clandestina 	1 9 	
+coisas 	1 2 	1 3 	1 10 	
+chave 	1 6 	
+chegar 	1 9 	
+chorar 	2 12 	
+chorei 	1 11 	
+cicatriz 	1 11 	
+cima 	1 10 	
+circo 	2 12 	
+ciúme 	1 9 	
+clarice 	1 9 	1 10 	
+coisa 	1 1 	1 3 	1 10 	
+colado 	1 9 	
+colou 	1 9 	
+comecei 	1 1 	
+comigo 	1 3 	
+completa 	1 2 	
+concebê 	1 5 	
+comeca 	1 3 	
+comecar 	1 3 	
+comecem 	1 1 	
+comecou 	1 1 	
+começara 	1 9 	
+como 	2 5 	4 9 	3 10 	2 11 	1 12 	
+companheiros 	1 9 	
+compensação 	2 10 	
+compra 	2 10 	
+comprar 	1 10 	1 12 	
+concentração 	1 9 	
+concha 	1 2 	
+constante 	1 4 	
+criatura 	1 2 	
+confuso 	1 9 	
+conjuga 	1 7 	
+conserto 	1 10 	
+confiou 	1 10 	
+confundir 	2 10 	
+confusa 	1 12 	
+congelando 	1 3 	
+conhecer 	1 3 	
+conquistar 	1 12 	
+conquistarei 	1 12 	
+conseguem 	1 10 	
+conseguiu 	1 9 	
+conservou 	1 11 	
+consigo 	1 4 	
+contato 	1 9 	
+contudo 	1 5 	
+coração 	2 5 	1 9 	1 11 	
+conta 	1 1 	1 2 	
+contar 	1 9 	1 11 	
+contemplar 	1 8 	
+continuar 	1 3 	
+contrapartida 	1 10 	
+conversavam 	1 9 	
+convocadas 	1 12 	
+coraÇÃo 	1 5 	
+corpo 	3 9 	
+criança 	1 12 	
+criatividade 	1 10 	
+cristo 	1 10 	
+cuspir 	1 6 	
+criaturas 	1 2 	
+criação 	1 10 	
+cruel 	1 11 	
+cruz 	1 10 	
+curva 	1 9 	
+cão 	1 12 	
+célebre 	1 10 	
+césar 	1 10 	
+definitivamente 	1 3 	
+deram 	1 3 	
+dando 	1 1 	
+de 	2 1 	8 2 	9 3 	1 4 	3 5 	4 6 	4 7 	3 8 	26 9 	15 10 	3 11 	25 12 	
+da 	2 1 	1 3 	2 7 	12 9 	1 10 	3 12 	
+dado 	1 7 	
+daquele 	1 9 	
+das 	1 1 	3 10 	
+decisivo 	1 12 	
+dedos 	1 9 	
+dele 	2 9 	
+denovo 	1 1 	
+deixaram 	1 3 	
+deixava 	2 9 	
+delgada 	1 11 	
+demais 	1 7 	
+dentro 	2 9 	1 12 	
+depois 	10 8 	1 9 	13 12 	
+descoberta 	1 9 	
+desconhecido 	1 10 	
+desamar 	1 2 	
+desceu 	1 9 	
+desconfiar 	1 10 	
+desconfie 	1 10 	
+descontraem 	1 10 	
+descrenca 	1 1 	
+entre 	1 2 	2 9 	
+eu 	1 1 	5 3 	3 7 	2 11 	1 12 	
+fotografia 	1 1 	
+inerte 	1 2 	
+dias 	1 5 	
+do 	2 1 	2 2 	1 3 	2 6 	1 7 	4 9 	2 11 	
+drummond 	2 2 	1 4 	1 6 	1 7 	
+ela 	1 9 	
+desgosto 	1 11 	
+destino 	1 2 	1 11 	
+dia 	1 5 	1 6 	4 8 	1 9 	2 12 	
+deserto 	1 2 	1 9 	
+desesperes 	1 5 	
+dessa 	1 9 	
+deste 	1 10 	
+desvantagem 	2 10 	
+desventura 	1 11 	
+deu 	1 9 	
+devem 	1 10 	
+dialogamos 	1 4 	
+diante 	1 10 	
+difícil 	1 9 	1 10 	
+direi 	1 12 	
+distribuído 	1 2 	
+dizer 	1 9 	
+dicionários 	1 7 	
+diferente 	1 4 	1 5 	
+diga 	1 9 	
+digo 	1 12 	
+discurso 	1 6 	
+disse 	1 10 	
+diverte 	1 12 	
+divertia 	1 12 	
+diz 	1 11 	
+dizendo 	1 10 	
+diálogo 	4 4 	
+diálogos 	1 4 	
+docemente 	1 9 	
+dorme 	1 5 	1 10 	
+doaçao 	1 2 	
+doce 	1 6 	
+dois 	2 9 	
+domingo 	2 12 	
+dor 	1 9 	
+dormir 	1 12 	
+dormisse 	1 6 	
+dos 	1 1 	1 3 	1 5 	1 6 	3 9 	2 10 	1 12 	
+dostoievski 	1 10 	
+e 	6 1 	16 2 	9 3 	2 4 	2 5 	12 6 	6 7 	1 8 	25 9 	8 10 	4 11 	3 12 	
+edital 	2 12 	
+duas 	1 10 	
+duro 	1 6 	
+eclipse 	1 7 	
+ed 	1 9 	
+educar 	1 8 	
+ei 	1 12 	
+em 	2 2 	2 5 	1 7 	2 9 	4 10 	3 11 	1 12 	
+encontres 	1 5 	
+ensinar 	1 8 	
+ele 	1 2 	8 9 	1 10 	1 11 	1 12 	
+eles 	1 10 	
+elétrico 	1 12 	
+encharcou 	1 9 	
+encheu 	1 9 	
+encostar 	1 6 	
+engulia 	1 9 	
+enorme 	1 5 	1 9 	
+enquanto 	1 9 	1 10 	
+ensinaram 	1 3 	
+entanto 	1 10 	
+enterneceu 	1 11 	
+entrar 	1 3 	1 9 	
+esfriou 	2 6 	
+esquecer 	1 2 	1 8 	
+estou 	2 10 	
+entristeceu 	1 11 	
+era 	1 3 	13 9 	2 10 	1 11 	1 12 	
+escolhe 	1 4 	
+entreabriu 	1 9 	
+entrega 	1 2 	
+então 	1 5 	1 9 	
+equilíbrio 	1 9 	
+eras 	3 11 	
+errara 	1 9 	
+escorrendo 	1 9 	
+escuro 	1 6 	
+esperar 	2 9 	
+espertos 	6 10 	
+espaçado 	1 9 	
+espaço 	1 10 	
+espera 	1 10 	
+esperança 	1 5 	
+esperava 	1 3 	
+esperteza 	1 10 	
+espertezas 	1 10 	
+esperto 	3 10 	
+espetáculo 	2 12 	
+espontaneamente 	1 10 	
+espreitando 	1 9 	
+espécie 	1 12 	
+estado 	1 7 	
+este 	1 2 	
+essa 	1 3 	2 11 	
+esta 	1 9 	1 12 	
+estabilidade 	2 3 	
+estar 	2 10 	
+estava 	3 9 	1 10 	
+estavam 	1 3 	1 9 	
+estes 	1 10 	
+estive 	2 3 	
+estradinha 	1 3 	
+estátua 	4 9 	
+estourando 	1 9 	
+estrada 	2 9 	
+estragado 	1 10 	
+estudarei 	1 12 	
+está 	3 6 	1 9 	1 12 	
+estás 	2 11 	
+estão 	1 10 	
+estômago 	1 10 	
+faz 	1 5 	1 6 	2 10 	2 11 	
+festa 	1 6 	
+excursão 	1 9 	
+existir 	1 5 	
+facilitam 	1 10 	
+falsas 	1 5 	
+evitar 	1 10 	
+excesso 	2 10 	
+exclama 	1 10 	
+exemplo 	2 10 	
+existe 	1 6 	
+expectante 	1 2 	
+facilita 	1 10 	
+faculdade 	2 3 	
+falar 	1 9 	
+falta 	1 1 	1 2 	
+farejando 	1 9 	
+fazia 	1 9 	
+fechar 	1 1 	
+fernando 	1 5 	1 12 	
+fazem 	1 10 	
+fazendo 	1 10 	
+fazer 	1 1 	1 3 	
+febre 	1 6 	
+fechados 	1 9 	
+fechasse 	1 9 	
+felicidade 	1 9 	
+feliz 	1 7 	1 9 	
+ferozmente 	1 9 	
+ferro 	1 2 	
+fico 	1 9 	
+finos 	1 9 	
+flor 	1 2 	
+forma 	1 3 	
+fez 	1 3 	1 9 	
+ficar 	1 9 	1 10 	
+filete 	1 9 	
+fina 	1 9 	2 11 	
+finalmente 	1 12 	
+fitando 	1 9 	
+fizer 	1 3 	
+foge 	1 7 	
+foi 	2 9 	1 11 	
+fonte 	1 9 	
+fora 	2 9 	
+forte 	1 7 	
+fosse 	1 1 	
+garganta 	1 9 	
+gritasse 	1 6 	
+há 	1 4 	1 6 	3 10 	
+fresco 	1 9 	1 10 	
+fugiu 	1 6 	
+futuro 	1 4 	
+galope 	1 6 	
+franzina 	2 11 	
+frase 	1 10 	
+frente 	1 9 	
+fresca 	1 9 	
+frio 	1 9 	1 12 	
+frágil 	1 9 	
+fuja 	1 6 	
+fumar 	1 6 	
+funciona 	1 10 	
+fundo 	1 9 	
+fé 	1 10 	
+fêmea 	1 8 	
+fútil 	1 10 	
+ganha 	1 10 	
+ganham 	2 10 	
+gemesse 	1 6 	
+grande 	1 5 	
+garotada 	1 9 	
+garotos 	1 9 	
+gavota 	1 11 	
+gerais 	1 10 	
+germinador 	1 9 	
+gole 	2 9 	
+graça 	2 7 	2 11 	
+gritar 	1 9 	
+havia 	4 9 	1 11 	
+horas 	1 10 	
+gula 	1 6 	
+gávea 	1 10 	
+gélido 	1 9 	
+hipocrisia 	1 1 	
+hoje 	9 12 	
+homem 	1 9 	
+humanas 	1 10 	
+humano 	1 8 	
+idéia 	1 10 	
+implícita 	1 2 	
+incoerência 	1 6 	
+idades 	1 11 	
+ideias 	1 4 	
+ilimitada 	1 2 	
+imagem 	1 11 	
+imperecível 	1 11 	
+importam 	1 10 	
+impossiveis 	1 3 	
+impossível 	1 10 	
+in 	1 9 	
+incrivelmente 	1 3 	
+indiferente 	1 4 	
+instinto 	1 9 	1 11 	
+janela 	1 9 	
+ingratidao 	1 2 	
+inominado 	1 4 	
+inesperada 	1 9 	
+infinita 	1 2 	
+infinito 	1 12 	
+infância 	2 12 	
+ingênua 	1 11 	
+iniciara 	1 9 	
+iniciou 	1 9 	
+inocência 	1 9 	
+instante 	1 6 	1 7 	
+instantes 	1 9 	
+intrigado 	1 9 	
+ir 	1 6 	
+inteiramente 	1 9 	
+inteligente 	1 12 	
+intercalado 	1 12 	
+interior 	1 9 	
+intuitivamente 	1 9 	
+inóspito 	1 2 	
+irracional 	1 4 	
+isso 	2 9 	1 10 	
+jamais 	1 9 	
+janeiro 	1 9 	
+jorrado 	1 9 	
+josÉ 	1 6 	
+juntar 	1 9 	
+jeito 	2 9 	
+jejum 	1 6 	
+jorrava 	1 9 	
+jorrou 	1 9 	
+josé 	9 6 	
+julgar 	2 8 	
+juntava 	1 9 	
+junto 	2 9 	
+já 	3 6 	1 9 	1 11 	1 12 	
+morresse 	1 6 	
+o 	2 1 	11 2 	2 3 	17 4 	5 5 	5 6 	1 7 	23 9 	21 10 	6 11 	15 12 	
+pela 	1 3 	
+pode 	1 1 	2 2 	3 6 	1 10 	
+luz 	1 6 	
+mar 	1 2 	2 6 	
+medrosa 	1 2 	
+metas 	1 1 	
+lentamente 	2 9 	
+lhe 	5 9 	1 10 	
+lindos 	1 1 	
+lo 	2 5 	1 7 	1 10 	
+lavra 	1 6 	
+lembram 	1 10 	
+lembrancas 	1 3 	
+lembrou 	1 9 	
+levar 	1 3 	
+levarei 	1 12 	
+libertar 	1 8 	
+lido 	1 12 	
+lispector 	1 9 	1 10 	
+livre 	1 5 	
+logo 	3 9 	
+longos 	1 9 	
+ludibriado 	1 10 	
+lugares 	1 10 	
+macho 	1 8 	
+maioria 	1 1 	
+lábios 	2 9 	
+líquido 	2 9 	
+maior 	1 9 	
+maiores 	1 1 	
+mais 	1 1 	2 2 	1 4 	1 6 	1 7 	8 9 	2 10 	1 12 	
+mal 	1 5 	
+malamar 	1 2 	
+manuel 	1 11 	
+marcou 	1 11 	
+mas 	2 3 	1 5 	2 6 	5 9 	1 10 	4 12 	
+mato 	1 6 	
+maravilhosas 	1 3 	
+marcha 	1 6 	
+marinha 	1 2 	
+mario 	1 8 	
+matam 	1 7 	
+matem 	1 7 	
+me 	10 3 	2 9 	5 12 	
+medo 	1 10 	
+melhores 	1 3 	
+menos 	1 9 	1 10 	
+meio 	1 1 	4 9 	1 10 	
+melhor 	2 4 	
+menina 	2 11 	
+menino 	2 11 	
+mesma 	1 2 	1 11 	
+mesmo 	2 4 	1 5 	1 7 	2 9 	1 12 	
+mim 	2 3 	1 7 	1 8 	
+minha 	4 3 	4 12 	
+mofou 	1 6 	
+morre 	1 6 	
+meu 	2 11 	
+meus 	1 1 	1 3 	
+mexer 	1 10 	
+minas 	2 6 	2 10 	
+mineral 	1 4 	
+minhas 	1 12 	
+minutos 	1 9 	
+mo 	1 11 	
+monotonia 	1 11 	
+morna 	1 9 	
+morrer 	1 6 	1 8 	
+morreremos 	1 8 	
+na 	3 2 	2 3 	1 6 	1 7 	4 9 	2 10 	
+nossa 	2 2 	
+mostraram 	1 3 	
+mudo 	1 4 	
+mundo 	2 3 	1 9 	2 10 	2 12 	
+mãe 	1 9 	
+morrido 	1 10 	
+morte 	2 7 	
+mortos 	1 4 	
+mostrar 	1 3 	
+motor 	1 9 	
+moça 	1 11 	
+mudança 	1 11 	
+mudara 	1 10 	
+muitas 	1 10 	
+muito 	2 12 	
+mulher 	1 6 	6 9 	
+mundos 	1 12 	
+murmuravam 	1 9 	
+mão 	1 5 	1 6 	1 10 	
+mês 	1 8 	
+naquela 	1 3 	
+navegar 	1 8 	
+no 	1 1 	1 4 	2 6 	2 7 	5 9 	4 10 	1 12 	
+nada 	1 7 	2 12 	
+namorada 	1 9 	
+namoro 	1 9 	
+nao 	3 3 	
+narinas 	1 9 	
+nariz 	1 9 	
+nascer 	1 10 	
+nele 	1 9 	
+nem 	1 3 	1 5 	2 7 	2 9 	
+nessa 	1 3 	
+ninguém 	1 10 	
+noite 	1 4 	1 5 	2 6 	1 10 	
+nome 	1 6 	1 11 	
+nos 	1 9 	
+novas 	1 1 	
+numa 	1 1 	1 11 	
+nosso 	1 2 	
+nostalgias 	1 5 	
+nota 	2 11 	
+nova 	1 9 	
+novo 	1 10 	
+nua 	1 6 	1 9 	
+nulas 	1 2 	
+num 	2 9 	
+nunca 	2 3 	2 9 	1 10 	1 12 	
+não 	3 5 	10 6 	5 7 	6 9 	15 10 	1 11 	10 12 	
+nós 	1 8 	
+ou 	4 2 	1 4 	1 7 	1 9 	1 12 	
+parada 	1 3 	
+ocupar 	1 10 	
+olhos 	1 1 	1 2 	4 9 	
+oportunidade 	1 3 	1 10 	
+orgulho 	1 9 	
+objetiva 	1 12 	
+obviamente 	1 10 	
+oculta 	1 9 	
+oferece 	1 10 	
+oito 	2 11 	
+olhar 	1 11 	
+olhou 	1 9 	
+onde 	1 1 	1 6 	2 9 	1 10 	
+opinião 	1 10 	
+oportunidades 	1 3 	
+oposto 	1 4 	
+orifício 	1 9 	
+originalidade 	1 10 	
+os 	2 4 	7 9 	9 10 	1 12 	
+outros 	1 6 	1 9 	1 10 	
+palavra 	1 4 	1 6 	1 10 	
+ouro 	1 6 	
+outra 	4 9 	
+outro 	1 3 	1 10 	1 12 	
+ouvir 	1 10 	
+paciente 	1 2 	
+pacientemente 	1 9 	
+paga 	1 7 	
+palavras 	1 12 	
+palhaçadas 	1 10 	
+palmas 	1 2 	
+para 	1 5 	3 6 	4 9 	4 10 	4 12 	
+parede 	1 6 	
+passa 	1 5 	
+passos 	1 1 	
+parar 	1 3 	
+parece 	1 10 	
+parecer 	1 3 	
+parou 	1 9 	
+parte 	1 9 	
+passado 	1 4 	
+passar 	2 10 	
+passei 	1 11 	
+passo 	1 9 	
+pausa 	1 5 	
+pedra 	2 9 	
+peito 	1 2 	1 9 	
+pequenos 	1 1 	
+perguntou 	1 9 	
+pelos 	1 9 	
+pensamentos 	1 1 	
+pelas 	1 2 	1 3 	
+pelo 	1 5 	3 9 	
+penetrando 	1 9 	
+penetrar 	1 9 	
+pensando 	1 10 	
+pensar 	1 8 	2 9 	2 12 	
+pensei 	1 1 	
+pequena 	1 1 	1 11 	
+perdendo 	1 3 	
+perfidas 	1 2 	
+percebe 	1 10 	
+percebeu 	1 9 	
+perdem 	1 10 	
+perdoar 	1 8 	
+perfeição 	1 5 	
+perguntado 	1 10 	
+pergunto 	1 2 	
+perto 	1 9 	
+pessoas 	1 1 	3 3 	2 10 	
+plácida 	1 5 	
+perplexo 	1 9 	
+persistência 	1 12 	
+perturbado 	1 9 	
+peso 	1 9 	
+pessoa 	1 5 	1 12 	
+plano 	1 12 	
+planos 	2 12 	
+pobre 	2 5 	
+pobres 	1 11 	
+possivel 	1 1 	
+precisao 	1 2 	
+pronta 	1 3 	
+quem 	1 3 	1 5 	10 8 	1 9 	1 10 	
+porta 	2 6 	
+porém 	1 9 	1 11 	
+podia 	1 9 	
+por 	1 7 	3 9 	11 10 	1 11 	3 12 	
+porque 	1 5 	5 7 	3 10 	
+portanto 	1 10 	
+porvir 	2 12 	
+pose 	1 12 	
+possesso 	1 4 	
+possível 	1 12 	
+povo 	1 6 	
+posso 	2 12 	
+possuir 	1 8 	
+pouca 	1 9 	
+pouco 	2 9 	
+pra 	4 3 	
+praia 	1 2 	
+praticamente 	1 10 	
+preto 	1 6 	
+primo 	1 7 	
+precisar 	1 3 	
+precisas 	1 7 	
+preparar 	2 12 	
+pressentia 	1 9 	
+prevê 	1 10 	
+primeira 	1 9 	1 11 	
+primeiro 	10 8 	4 9 	
+procura 	1 2 	
+procurando 	1 9 	
+profundeza 	1 9 	
+próprio 	1 9 	
+puxa 	1 9 	
+qual 	1 6 	1 12 	
+quantos 	1 10 	
+proposito 	1 3 	
+protesta 	1 6 	
+provoca 	1 10 	
+prático 	1 12 	
+próxima 	1 9 	
+punhalada 	1 10 	
+pé 	1 9 	
+põe 	1 10 	
+pública 	1 12 	
+qualidades 	1 12 	
+quando 	2 11 	1 12 	
+quanta 	1 11 	
+quase 	1 9 	2 10 	
+que 	5 1 	6 2 	17 3 	1 4 	3 5 	5 6 	1 7 	1 8 	22 9 	18 10 	5 11 	6 12 	
+queiram 	1 12 	
+queres 	2 5 	
+rapina 	1 2 	
+quente 	1 9 	
+quer 	3 5 	3 6 	
+querer 	1 3 	
+quero 	3 12 	
+quieto 	1 9 	
+quintana 	1 8 	
+quê 	1 11 	
+razão 	1 5 	
+razões 	1 7 	
+reais 	1 12 	
+real 	1 12 	
+sepulta 	1 2 	
+sozinho 	1 2 	1 6 	1 9 	
+tudo 	1 1 	2 3 	2 5 	3 6 	
+respirasse 	1 9 	
+sabe 	1 1 	10 8 	
+se 	4 1 	2 2 	5 3 	2 5 	7 6 	4 7 	10 9 	9 10 	2 12 	
+sem 	3 1 	2 2 	7 6 	1 7 	2 9 	4 10 	
+reclama 	1 10 	
+relaxada 	1 9 	
+realmente 	1 9 	
+receber 	1 10 	
+redigirei 	1 12 	
+refrigerado 	1 10 	
+regulamentos 	1 7 	
+relembro 	1 11 	
+repente 	1 12 	
+repetiria 	1 12 	
+reunida 	1 9 	
+rodar 	1 2 	
+responde 	1 10 	
+resultado 	1 10 	
+rio 	1 9 	
+rir 	1 9 	1 11 	
+riso 	1 6 	1 11 	
+rocco 	1 9 	
+rosto 	2 9 	1 11 	
+rotaçao 	1 2 	
+rua 	1 2 	
+sabia 	3 9 	
+saibam 	1 10 	
+saliva 	3 9 	
+sabedoria 	1 10 	
+sabem 	2 10 	
+saber 	1 3 	1 12 	
+sabes 	1 7 	
+saciar 	1 9 	
+sai 	1 9 	
+sair 	1 10 	
+sal 	1 2 	
+saltavam 	1 9 	
+sao 	1 3 	
+saía 	1 9 	
+saída 	1 10 	
+secou 	1 6 	
+seguinte 	1 12 	
+seca 	1 9 	
+secava 	1 9 	
+secretária 	1 12 	
+secura 	1 2 	
+sede 	1 2 	5 9 	
+segredo 	1 12 	
+seguiste 	1 11 	
+segunda 	1 10 	1 11 	
+senao 	2 2 	
+sente 	1 5 	
+sentindo 	1 9 	
+semana 	2 12 	
+semeado 	1 7 	
+semelhante 	1 4 	
+sempre 	1 2 	1 7 	1 9 	2 10 	
+sentado 	1 10 	
+sentar 	1 12 	
+sentia 	2 9 	
+sentido 	1 9 	
+sentir 	1 3 	1 8 	3 9 	
+sentira 	1 9 	
+sido 	1 10 	
+solenemente 	1 2 	
+seremos 	1 8 	
+serra 	1 9 	
+seu 	3 6 	3 9 	
+sequer 	1 10 	
+ser 	1 2 	1 4 	1 7 	1 8 	2 9 	6 10 	
+serei 	2 12 	
+serem 	1 10 	
+seres 	1 5 	
+seria 	1 10 	
+será 	1 12 	
+serão 	1 12 	
+seus 	1 9 	
+si 	1 5 	1 7 	1 8 	
+simples 	1 2 	1 9 	1 10 	
+sofreu 	1 9 	
+silêncio 	3 4 	
+sim 	1 9 	3 12 	
+simpático 	1 10 	
+so 	1 3 	
+sobre 	1 11 	
+sobressalto 	1 9 	
+sol 	1 9 	
+solene 	1 5 	
+sonhar 	1 1 	1 3 	
+sono 	3 12 	
+sossega 	3 5 	
+sombra 	1 9 	
+somente 	1 5 	
+sonhada 	1 9 	
+sonho 	1 2 	1 3 	1 4 	2 5 	
+sonhos 	1 1 	
+sorrias 	1 11 	
+sorris 	1 11 	
+sossego 	1 5 	
+sou 	1 3 	1 9 	
+soube 	1 9 	
+tambem 	1 2 	
+texto 	1 1 	
+tontos 	1 9 	
+tremor 	1 9 	
+subia 	1 9 	
+sumiu 	1 6 	
+só 	2 5 	1 9 	3 10 	7 12 	
+sua 	5 6 	5 9 	1 11 	
+suas 	1 10 	
+subjetividade 	1 12 	
+sufocava 	1 9 	
+surdo 	1 4 	
+susto 	1 9 	
+sê 	1 7 	
+tacito 	1 2 	
+talvez 	1 1 	1 5 	1 9 	1 12 	
+tantos 	1 4 	
+tem 	1 3 	3 10 	
+tentou 	2 9 	
+terminar 	2 3 	
+também 	1 9 	
+tanto 	1 11 	
+tao 	2 3 	
+te 	5 7 	8 11 	1 12 	
+tempo 	1 10 	1 11 	
+tenho 	5 12 	
+tensão 	1 9 	
+teogonia 	1 6 	
+ter 	2 10 	
+terei 	1 12 	
+teria 	1 10 	
+terminou 	1 10 	
+terno 	1 6 	
+teu 	2 4 	7 11 	
+tirava 	1 9 	
+tocasse 	1 6 	
+todo 	1 1 	3 9 	
+toma 	1 1 	
+ti 	1 11 	
+tido 	1 10 	
+tijolos 	1 3 	
+tinha 	1 9 	
+tivesse 	1 10 	
+tocar 	1 3 	1 10 	
+toda 	1 10 	2 12 	
+todas 	1 10 	1 12 	
+todos 	2 9 	1 10 	
+tolo 	1 10 	
+tomava 	1 9 	
+tomou 	1 9 	
+tranquila 	1 3 	
+transforme 	1 5 	
+tornara 	2 9 	
+toscamente 	1 9 	
+trancos 	1 3 	
+tranqüilo 	1 10 	
+transformar 	1 9 	
+traz 	1 2 	1 11 	
+traçado 	1 12 	
+traço 	1 12 	
+tristezas 	1 10 	
+trás 	1 9 	
+triste 	1 11 	
+tristeza 	1 11 	
+triunfar 	1 12 	
+troca 	1 7 	
+três 	1 11 	
+tu 	1 10 	1 11 	
+tua 	1 4 	1 11 	
+utopia 	1 6 	
+vegetal 	1 4 	
+vidrados 	1 2 	
+você 	12 6 	1 9 	
+tê 	1 5 	
+universal 	1 2 	1 5 	
+turma 	1 9 	
+tão 	2 9 	3 10 	
+técnico 	1 10 	
+um 	2 1 	2 2 	2 3 	1 5 	11 8 	6 9 	5 10 	1 11 	5 12 	
+uma 	3 2 	10 9 	4 10 	
+uso 	1 10 	
+utilidade 	1 10 	
+valia 	1 10 	
+vantagens 	1 10 	
+vaca 	1 10 	
+vadio 	1 12 	
+vai 	1 10 	
+valsa 	1 6 	
+vantagem 	1 10 	
+vaso 	1 2 	
+vazia 	1 2 	
+vence 	1 10 	
+vento 	1 7 	1 9 	
+vez 	1 9 	1 10 	2 11 	
+veio 	4 6 	
+vejo 	1 11 	
+vem 	1 9 	1 10 	
+vencedor 	1 7 	
+venceu 	1 10 	
+ver 	2 10 	1 11 	
+verdade 	3 9 	
+versos 	1 6 	1 11 	
+vezes 	1 9 	2 10 	
+vi 	2 11 	
+via 	1 9 	1 11 	
+vida 	1 3 	1 8 	5 9 	1 10 	2 12 	
+vista 	1 2 	
+viveremos 	1 8 	
+vidro 	1 6 	
+vienense 	1 6 	
+vinda 	1 9 	
+viu 	2 9 	
+viva 	1 9 	
+viver 	1 8 	1 10 	
+vivificador 	1 9 	
+voando 	1 10 	
+voce 	1 1 	
+vários 	1 7 	
+zomba 	1 6 	
+às 	1 9 	2 10 	
+é 	2 6 	5 7 	4 8 	1 9 	10 10 	2 11 	6 12 	
+voltando 	1 9 	
+vontade 	2 12 	
+vou 	5 3 	
+vulto 	1 11 	
+vê 	1 10 	
+vêem 	2 10 	
+À 	1 11 	
+É 	3 10 	
+És 	1 11 	
+à 	1 10 	1 12 	
+á 	1 12 	
+água 	6 9 	
+ária 	1 11 	
+árida 	1 9 	
+ódio 	1 6 	
+ônibus 	2 9 	
+úlcera 	1 10 	

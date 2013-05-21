@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1339282653 source:c:\users\mateus\documents\ordenação externa\ordenação externa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1339437435 "
+
+1339206030 
+
+1339438322 source:/home/siga/Ãrea de Trabalho/OrdenaÃ§Ã£o Externa/ordenaÃ§Ã£o externa/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"QuickSort.h"
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1339206260 .h"
+
+1339206248 /home/siga/Ãrea de Trabalho/OrdenaÃ§Ã£o Externa/ordenaÃ§Ã£o externa/QuickSort.h
+
+1339591615 source:/home/siga/Ãrea de Trabalho/OrdenaÃ§Ã£o Externa/ordenaÃ§Ã£o externa/filaPrioridade.c
+	<stdio.h>
+	<stdlib.h>
+	"filaPrioridade.h"
+	<stdio.h>
+	<stdlib.h>
+	"filaPrioridade.h"
+
+1339285714 idade.h"
+
+1339297310 /home/siga/Ãrea de Trabalho/OrdenaÃ§Ã£o Externa/ordenaÃ§Ã£o externa/filaPrioridade.h
+
+1339206247 c:\users\mateus\documents\ordenação externa\ordenação externa\quicksort.h
+
+1339297309 c:\users\mateus\documents\ordenação externa\ordenação externa\filaprioridade.h
+
+1339385320 source:c:\users\mateus\documents\ordenação externa\ordenação externa\filaprioridade.c
+	<stdio.h>
+	<stdlib.h>
+	"filaPrioridade.h"
+
+1339206030 source:c:\users\mateus\documents\ordenação externa\ordenação externa\fila_prioridade.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1339206258 source:c:\users\mateus\documents\ordenação externa\ordenação externa\quicksort.c
+	"QuickSort.h"
+
+1339385333 source:c:\users\mateus\documents\ordenação externa\ordenação externa\funcoes.c
+	"funcoes.h"
+
+1339285713 c:\users\mateus\documents\ordenação externa\ordenação externa\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"QuickSort.h"
+	"filaPrioridade.h"
+
+1339435440 source:c:\documents and settings\aluno\meus documentos\ordenação externa\ordenação externa\filaprioridade.c
+	<stdio.h>
+	<stdlib.h>
+	"filaPrioridade.h"
+
+1339297310 c:\documents and settings\aluno\meus documentos\ordenação externa\ordenação externa\filaprioridade.h
+
+1339438179 source:c:\documents and settings\aluno\meus documentos\ordenação externa\ordenação externa\funcoes.c
+	"funcoes.h"
+
+1339285714 c:\documents and settings\aluno\meus documentos\ordenação externa\ordenação externa\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"QuickSort.h"
+	"filaPrioridade.h"
+
+1339206248 c:\documents and settings\aluno\meus documentos\ordenação externa\ordenação externa\quicksort.h
+
+1339437435 source:c:\documents and settings\aluno\meus documentos\ordenação externa\ordenação externa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1339206260 source:c:\documents and settings\aluno\meus documentos\ordenação externa\ordenação externa\quicksort.c
+	"QuickSort.h"
+
+1339206260 source:/home/siga/Ãrea de Trabalho/OrdenaÃ§Ã£o Externa/ordenaÃ§Ã£o externa/QuickSort.c
+	"QuickSort.h"
+
+1339592929 source:/home/siga/Ãrea de Trabalho/OrdenaÃ§Ã£o Externa/ordenaÃ§Ã£o externa/funcoes.c
+	"funcoes.h"
+
+1339285714 /home/siga/Ãrea de Trabalho/OrdenaÃ§Ã£o Externa/ordenaÃ§Ã£o externa/funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"QuickSort.h"
+	"filaPrioridade.h"
+
+1339609855 source:c:\documents and settings\aluno\desktop\ordenação externa\ordenação externa\filaprioridade.c
+	<stdio.h>
+	<stdlib.h>
+	"filaPrioridade.h"
+
+1339297310 c:\documents and settings\aluno\desktop\ordenação externa\ordenação externa\filaprioridade.h
+
+1339601725 source:c:\documents and settings\aluno\desktop\ordenação externa\ordenação externa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1339606558 c:\documents and settings\aluno\desktop\ordenação externa\ordenação externa\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"QuickSort.h"
+	"filaPrioridade.h"
+
+1339206248 c:\documents and settings\aluno\desktop\ordenação externa\ordenação externa\quicksort.h
+
+1339206260 source:c:\documents and settings\aluno\desktop\ordenação externa\ordenação externa\quicksort.c
+	"QuickSort.h"
+
+1339609723 source:c:\documents and settings\aluno\desktop\ordenação externa\ordenação externa\funcoes.c
+	"funcoes.h"
+
