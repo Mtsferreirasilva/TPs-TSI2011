@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Oferta">
+  <xs:complexType>
+   <xs:sequence>
+    <xs:element name="Produtos">
+     <xs:complexType>
+      <xs:sequence>
+       <xs:element minOccurs="1" maxOccurs="3" name="Produto">
+        <xs:complexType>
+         <xs:sequence>
+          <xs:element name="Nome" type="xs:string"></xs:element>
+          <xs:element name="Marca" type="xs:string"></xs:element>
+          <xs:element name="Modelo" type="xs:string"></xs:element>
+          <xs:element name="Garantia" type="xs:integer"></xs:element>
+          <xs:element name="Preco" type="xs:decimal"></xs:element>
+         </xs:sequence>
+        </xs:complexType>
+       </xs:element>
+      </xs:sequence>
+      <xs:attribute name="Ofertante" type="xs:string" use="required"></xs:attribute>
+      <xs:attribute name="Data" type="xs:date" use="required"></xs:attribute>
+     </xs:complexType>
+    </xs:element>
+   </xs:sequence>
+  </xs:complexType>
+</xs:element>
+</xs:schema>

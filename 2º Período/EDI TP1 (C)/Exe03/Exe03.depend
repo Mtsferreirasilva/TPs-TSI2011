@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1321593690 source:f:\trabalhos do wender\trabalho wender ed i\exe03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Fila.h"
+	"Funcoes.h"
+
+1321468350 f:\trabalhos do wender\trabalho wender ed i\exe03\fila.h
+
+1321304430 source:f:\trabalhos do wender\trabalho wender ed i\exe03\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1321593851 f:\trabalhos do wender\trabalho wender ed i\exe03\funcoes.h
+
+1321593898 source:f:\trabalhos do wender\trabalho wender ed i\exe03\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Fila.h"
+	"Funcoes.h"
+
+1321469260 source:c:\documents and settings\aluno\desktop\trabalho wender ed i\exe03\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Fila.h"
+	"Funcoes.h"
+
+1321468350 c:\documents and settings\aluno\desktop\trabalho wender ed i\exe03\fila.h
+
+1321468759 c:\documents and settings\aluno\desktop\trabalho wender ed i\exe03\funcoes.h
+
+1321468883 source:c:\documents and settings\aluno\desktop\trabalho wender ed i\exe03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Fila.h"
+	"Funcoes.h"
+
+1321304430 source:c:\documents and settings\aluno\desktop\trabalho wender ed i\exe03\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+

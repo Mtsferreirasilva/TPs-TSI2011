@@ -1,0 +1,199 @@
+# depslib dependency file v1.0
+1322280200 source:f:\trabalhos do wender\trabalho 2 wender ed ii\trabalho 2 wender ed ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estruturas_de_ordenacao.h"
+	"funcoes.h"
+
+1322274620 f:\trabalhos do wender\trabalho 2 wender ed ii\trabalho 2 wender ed ii\estruturas_de_ordenacao.h
+
+1322274796 source:f:\trabalhos do wender\trabalho 2 wender ed ii\trabalho 2 wender ed ii\estruturas_de_ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"estruturas_de_ordenacao.h"
+
+1322279876 source:f:\trabalhos do wender\trabalho 2 wender ed ii\trabalho 2 wender ed ii\funcoes.c
+	"funcoes.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"busca_ordenadores.h"
+
+1322280808 f:\trabalhos do wender\trabalho 2 wender ed ii\trabalho 2 wender ed ii\funcoes.h
+	"estruturas_de_ordenacao.h"
+
+1322279106 source:f:\trabalhos do wender\trabalho 2 wender ed ii\trabalho 2 wender ed ii\busca_ordenadores.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funcoes.h"
+	"estruturas_de_ordenacao.h"
+	"busca_ordenadores.h"
+
+1322279106 f:\trabalhos do wender\trabalho 2 wender ed ii\trabalho 2 wender ed ii\busca_ordenadores.h
+	"estruturas_de_ordenacao.h"
+
+1322314735 source:c:\documents and settings\aluno\desktop\trabalho 2 wender ed ii\trabalho 2 wender ed ii\estruturas_de_ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"estruturas_de_ordenacao.h"
+
+1322314523 c:\documents and settings\aluno\desktop\trabalho 2 wender ed ii\trabalho 2 wender ed ii\estruturas_de_ordenacao.h
+
+1322312222 source:c:\documents and settings\aluno\desktop\trabalho 2 wender ed ii\trabalho 2 wender ed ii\funcoes.c
+	"funcoes.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"busca_ordenadores.h"
+
+1322310416 c:\documents and settings\aluno\desktop\trabalho 2 wender ed ii\trabalho 2 wender ed ii\funcoes.h
+	"estruturas_de_ordenacao.h"
+
+1322309779 c:\documents and settings\aluno\desktop\trabalho 2 wender ed ii\trabalho 2 wender ed ii\busca_ordenadores.h
+	"estruturas_de_ordenacao.h"
+
+1322280200 source:c:\documents and settings\aluno\desktop\trabalho 2 wender ed ii\trabalho 2 wender ed ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estruturas_de_ordenacao.h"
+	"funcoes.h"
+
+1322311901 source:c:\documents and settings\aluno\desktop\trabalho 2 wender ed ii\trabalho 2 wender ed ii\busca_ordenadores.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funcoes.h"
+	"estruturas_de_ordenacao.h"
+	"busca_ordenadores.h"
+
+1322748384 source:f:\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\estruturas_de_ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"estruturas_de_ordenacao.h"
+
+1322748384 f:\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\estruturas_de_ordenacao.h
+	"pilha.h"
+
+1322451492 source:f:\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\funcoes.c
+	"funcoes.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"busca_ordenadores.h"
+
+1322451044 f:\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\funcoes.h
+	"estruturas_de_ordenacao.h"
+	<stdio.h>
+
+1322445106 f:\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\busca_ordenadores.h
+	"estruturas_de_ordenacao.h"
+
+1322280200 source:f:\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estruturas_de_ordenacao.h"
+	"funcoes.h"
+
+1322448050 source:f:\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\busca_ordenadores.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funcoes.h"
+	"estruturas_de_ordenacao.h"
+	"busca_ordenadores.h"
+
+1322363486 f:\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\pilha.h
+
+1322363499 source:f:\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\pilha.c
+	"pilha.h"
+	<stdio.h>
+	<stdlib.h>
+
+1322748384 source:d:\hd\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\estruturas_de_ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"estruturas_de_ordenacao.h"
+
+1322748384 d:\hd\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\estruturas_de_ordenacao.h
+	"pilha.h"
+
+1322363486 d:\hd\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\pilha.h
+
+1322280200 source:d:\hd\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estruturas_de_ordenacao.h"
+	"funcoes.h"
+
+1322767116 d:\hd\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\funcoes.h
+	"estruturas_de_ordenacao.h"
+	<stdio.h>
+
+1322363499 source:d:\hd\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\pilha.c
+	"pilha.h"
+	<stdio.h>
+	<stdlib.h>
+
+1322448050 source:d:\hd\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\busca_ordenadores.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funcoes.h"
+	"estruturas_de_ordenacao.h"
+	"busca_ordenadores.h"
+
+1322445106 d:\hd\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\busca_ordenadores.h
+	"estruturas_de_ordenacao.h"
+
+1322781001 source:d:\hd\ifet mateus\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\estruturas_de_ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"estruturas_de_ordenacao.h"
+
+1322748384 d:\hd\ifet mateus\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\estruturas_de_ordenacao.h
+	"pilha.h"
+
+1322363486 d:\hd\ifet mateus\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\pilha.h
+
+1322280200 source:d:\hd\ifet mateus\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estruturas_de_ordenacao.h"
+	"funcoes.h"
+
+1322781365 d:\hd\ifet mateus\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\funcoes.h
+	"estruturas_de_ordenacao.h"
+	<stdio.h>
+
+1322363499 source:d:\hd\ifet mateus\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\pilha.c
+	"pilha.h"
+	<stdio.h>
+	<stdlib.h>
+
+1322781365 source:d:\hd\ifet mateus\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\busca_ordenadores.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funcoes.h"
+	"estruturas_de_ordenacao.h"
+	"busca_ordenadores.h"
+
+1322445106 d:\hd\ifet mateus\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\busca_ordenadores.h
+	"estruturas_de_ordenacao.h"
+
+1322839275 source:d:\hd\ifet mateus\trabalhos do wender\trabalho 2 wender ed i\trabalho 2 wender ed ii\funcoes.c
+	"funcoes.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"busca_ordenadores.h"
+

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<curriculo>
+   <InformacaoPessoal>
+      <DataNascimento>23-07-68</DataNascimento>
+      <Nomecompleto>...</Nomecompleto>
+      <Contatos>
+         <Morada>
+              <Rua>R.Topazio</Rua>
+              <Num>111</Num>
+              <Cidade>Porto</Cidade>
+              <Pais>Portugal</Pais>
+         </Morada>
+         <Telefone>9999-9999</Telefone>
+         <CorreioEletronico>email@email.com</CorreioEletronico>
+      </Contatos>
+      <Nacionalidade>Portuguesa</Nacionalidade>
+      <Sexo>M</Sexo>
+   </InformacaoPessoal>
+   <objetivo>Atuar na area de TI</objetivo>
+   <Experiencia>
+      <Cargo>Suporte técnico</Cargo>
+      <Empregador>Empresa, Cidade - Estado</Empregador>
+   </Experiencia>
+   <Formacao>Superior Completo</Formacao>
+</curriculo>

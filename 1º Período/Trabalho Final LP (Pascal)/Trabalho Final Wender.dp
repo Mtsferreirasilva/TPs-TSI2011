@@ -1,0 +1,15 @@
+[Project]
+FileName=F:\Trabalhos do Wender\Trabalho Final LP\Trabalho Final Wender.dp
+Name=Trabalho Final Wender
+MainUnit=F:\Trabalhos do Wender\Trabalho Final LP\Trabalho Final.pas
+UnitCount=1
+ResFiles=
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icons\Book.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=F:\Trabalhos do Wender\Trabalho Final LP\Trabalho Final.pas
+FileTime=1055571642

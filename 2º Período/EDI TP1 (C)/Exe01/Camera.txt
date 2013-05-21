@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Oferta>
+ <Produtos Ofertante="Submarino" Data="2009-01-24">
+  <Produto>
+   <Nome>Câmera Digital 5MP LCD 2</Nome>
+   <Marca>Nikon</Marca>
+   <Modelo>L10</Modelo>
+   <Garantia>12</Garantia>
+   <Preco>299.00</Preco>
+  </Produto>
+  <Produto>
+   <Nome>Câmera Digital 8.2MP Easy Share</Nome>
+   <Marca>Nikon</Marca>
+   <Modelo>C813</Modelo>
+   <Garantia>12</Garantia>
+   <Preco>549.00</Preco>
+  </Produto>
+ </Produtos>
+</Oferta>

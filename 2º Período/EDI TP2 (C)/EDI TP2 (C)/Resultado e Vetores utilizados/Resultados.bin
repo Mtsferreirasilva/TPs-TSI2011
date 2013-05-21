@@ -1,0 +1,361 @@
+
+>>			 QUICKSORT SEM RECURSAO
+-------------------------------------------------------------------------
+
+			VETORES DE TAMANHO 5000
+
+Nao ordenado: Tempo de execucao 0.002 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.002 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.001 segundo(s)
+
+			VETORES DE TAMANHO 10000
+
+Nao ordenado: Tempo de execucao 0.006 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.002 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.002 segundo(s)
+
+			VETORES DE TAMANHO 50000
+
+Nao ordenado: Tempo de execucao 0.029 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.017 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.018 segundo(s)
+
+			VETORES DE TAMANHO 100000
+
+Nao ordenado: Tempo de execucao 0.062 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.037 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.040 segundo(s)
+
+			VETORES DE TAMANHO 500000
+
+Nao ordenado: Tempo de execucao 0.335 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.154 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.170 segundo(s)
+
+			VETORES DE TAMANHO 1000000
+
+Nao ordenado: Tempo de execucao 0.579 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.331 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.356 segundo(s)
+
+-------------------------------------------------------------------------
+>>		  QUICKSORT PIVO SEGMENTO <= 20 C/ INSERTSORT
+-------------------------------------------------------------------------
+
+			VETORES DE TAMANHO 5000
+
+Nao ordenado: Tempo de execucao 0.001 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.001 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.000 segundo(s)
+
+			VETORES DE TAMANHO 10000
+
+Nao ordenado: Tempo de execucao 0.002 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.001 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.001 segundo(s)
+
+			VETORES DE TAMANHO 50000
+
+Nao ordenado: Tempo de execucao 0.018 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.007 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.007 segundo(s)
+
+			VETORES DE TAMANHO 100000
+
+Nao ordenado: Tempo de execucao 0.037 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.016 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.018 segundo(s)
+
+			VETORES DE TAMANHO 500000
+
+Nao ordenado: Tempo de execucao 0.213 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.112 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.117 segundo(s)
+
+			VETORES DE TAMANHO 1000000
+
+Nao ordenado: Tempo de execucao 0.475 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.249 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.271 segundo(s)
+
+-------------------------------------------------------------------------
+>>		    QUICKSORT PIVO ELEMENTO NUMERO DE 3
+-------------------------------------------------------------------------
+
+			VETORES DE TAMANHO 5000
+
+Nao ordenado: Tempo de execucao 0.001 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.001 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.000 segundo(s)
+
+			VETORES DE TAMANHO 10000
+
+Nao ordenado: Tempo de execucao 0.002 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.001 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.002 segundo(s)
+
+			VETORES DE TAMANHO 50000
+
+Nao ordenado: Tempo de execucao 0.016 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.007 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.007 segundo(s)
+
+			VETORES DE TAMANHO 100000
+
+Nao ordenado: Tempo de execucao 0.037 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.016 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.018 segundo(s)
+
+			VETORES DE TAMANHO 500000
+
+Nao ordenado: Tempo de execucao 0.211 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.106 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.115 segundo(s)
+
+			VETORES DE TAMANHO 1000000
+
+Nao ordenado: Tempo de execucao 0.472 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.237 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.259 segundo(s)
+
+-------------------------------------------------------------------------
+>>		      QUICKSORT PIVO ELEMENTO DO MEIO
+-------------------------------------------------------------------------
+
+			VETORES DE TAMANHO 5000
+
+Nao ordenado: Tempo de execucao 0.001 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.000 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.001 segundo(s)
+
+			VETORES DE TAMANHO 10000
+
+Nao ordenado: Tempo de execucao 0.003 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.001 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.001 segundo(s)
+
+			VETORES DE TAMANHO 50000
+
+Nao ordenado: Tempo de execucao 0.017 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.007 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.007 segundo(s)
+
+			VETORES DE TAMANHO 100000
+
+Nao ordenado: Tempo de execucao 0.037 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.016 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.017 segundo(s)
+
+			VETORES DE TAMANHO 500000
+
+Nao ordenado: Tempo de execucao 0.216 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.105 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.110 segundo(s)
+
+			VETORES DE TAMANHO 1000000
+
+Nao ordenado: Tempo de execucao 0.465 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.237 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.255 segundo(s)
+
+-------------------------------------------------------------------------
+>>				HEAPSORT
+-------------------------------------------------------------------------
+
+			VETORES DE TAMANHO 5000
+
+Nao ordenado: Tempo de execucao 0.004 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.003 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.003 segundo(s)
+
+			VETORES DE TAMANHO 10000
+
+Nao ordenado: Tempo de execucao 0.008 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.007 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.007 segundo(s)
+
+			VETORES DE TAMANHO 50000
+
+Nao ordenado: Tempo de execucao 0.057 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.047 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.044 segundo(s)
+
+			VETORES DE TAMANHO 100000
+
+Nao ordenado: Tempo de execucao 0.129 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.099 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.095 segundo(s)
+
+			VETORES DE TAMANHO 500000
+
+Nao ordenado: Tempo de execucao 0.961 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.580 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.607 segundo(s)
+
+			VETORES DE TAMANHO 1000000
+
+Nao ordenado: Tempo de execucao 2.257 segundo(s)
+Ordenado crescentemente: Tempo de execucao 1.197 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 1.258 segundo(s)
+
+-------------------------------------------------------------------------
+>>				SHELLSORT
+-------------------------------------------------------------------------
+
+			VETORES DE TAMANHO 5000
+
+Nao ordenado: Tempo de execucao 0.003 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.001 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.002 segundo(s)
+
+			VETORES DE TAMANHO 10000
+
+Nao ordenado: Tempo de execucao 0.007 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.002 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.004 segundo(s)
+
+			VETORES DE TAMANHO 50000
+
+Nao ordenado: Tempo de execucao 0.044 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.017 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.021 segundo(s)
+
+			VETORES DE TAMANHO 100000
+
+Nao ordenado: Tempo de execucao 0.107 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.035 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.046 segundo(s)
+
+			VETORES DE TAMANHO 500000
+
+Nao ordenado: Tempo de execucao 0.766 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.229 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.283 segundo(s)
+
+			VETORES DE TAMANHO 1000000
+
+Nao ordenado: Tempo de execucao 1.782 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.450 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.554 segundo(s)
+
+-------------------------------------------------------------------------
+>>				INSERSORT
+-------------------------------------------------------------------------
+
+			VETORES DE TAMANHO 5000
+
+Nao ordenado: Tempo de execucao 0.118 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.001 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.244 segundo(s)
+
+			VETORES DE TAMANHO 10000
+
+Nao ordenado: Tempo de execucao 0.490 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.001 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.970 segundo(s)
+
+			VETORES DE TAMANHO 50000
+
+Nao ordenado: Tempo de execucao 12.570 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.002 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 26.525 segundo(s)
+
+			VETORES DE TAMANHO 100000
+
+Nao ordenado: Tempo de execucao 58.047 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.000 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 122.211 segundo(s)
+
+			VETORES DE TAMANHO 500000
+
+Nao ordenado: Tempo de execucao 1621.342 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.015 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 3401.263 segundo(s)
+
+			VETORES DE TAMANHO 1000000
+
+Nao ordenado: Tempo de execucao 6881.168 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.040 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 13842.482 segundo(s)
+
+-------------------------------------------------------------------------
+>>				SELECTSORT
+-------------------------------------------------------------------------
+
+			VETORES DE TAMANHO 5000
+
+Nao ordenado: Tempo de execucao 0.047 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.047 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.062 segundo(s)
+
+			VETORES DE TAMANHO 10000
+
+Nao ordenado: Tempo de execucao 0.188 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.187 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.249 segundo(s)
+
+			VETORES DE TAMANHO 50000
+
+Nao ordenado: Tempo de execucao 7.551 segundo(s)
+Ordenado crescentemente: Tempo de execucao 7.519 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 9.563 segundo(s)
+
+			VETORES DE TAMANHO 100000
+
+Nao ordenado: Tempo de execucao 51.995 segundo(s)
+Ordenado crescentemente: Tempo de execucao 51.761 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 54.787 segundo(s)
+
+			VETORES DE TAMANHO 500000
+
+Nao ordenado: Tempo de execucao 1484.935 segundo(s)
+Ordenado crescentemente: Tempo de execucao 1485.997 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 1506.713 segundo(s)
+
+			VETORES DE TAMANHO 1000000
+
+Nao ordenado: Tempo de execucao 5977.743 segundo(s)
+Ordenado crescentemente: Tempo de execucao 6069.020 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 6312.652 segundo(s)
+
+-------------------------------------------------------------------------
+>>				BUBBLESORT
+-------------------------------------------------------------------------
+
+			VETORES DE TAMANHO 5000
+
+Nao ordenado: Tempo de execucao 0.359 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.000 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 0.593 segundo(s)
+
+			VETORES DE TAMANHO 10000
+
+Nao ordenado: Tempo de execucao 1.451 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.000 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 2.387 segundo(s)
+
+			VETORES DE TAMANHO 50000
+
+Nao ordenado: Tempo de execucao 39.636 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.000 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 63.247 segundo(s)
+
+			VETORES DE TAMANHO 100000
+
+Nao ordenado: Tempo de execucao 160.650 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.001 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 255.462 segundo(s)
+
+			VETORES DE TAMANHO 500000
+
+Nao ordenado: Tempo de execucao 4234.105 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.009 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 5753.211 segundo(s)
+
+			VETORES DE TAMANHO 1000000
+
+Nao ordenado: Tempo de execucao 9235.026 segundo(s)
+Ordenado crescentemente: Tempo de execucao 0.022 segundo(s)
+Ordenado decrescentemente: Tempo de execucao 12001.126 segundo(s)
+
+-------------------------------------------------------------------------
